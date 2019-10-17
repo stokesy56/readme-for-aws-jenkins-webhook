@@ -1,5 +1,4 @@
-# Amazon Web Service (AWS) :sushi:
-
+# Amazon Web Service (AWS) :sushi::bread:
 ## What is AWS
   * AWS is secure cloud services platform providing:
           - Computer power
