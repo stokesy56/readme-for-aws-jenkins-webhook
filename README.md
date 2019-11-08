@@ -1,4 +1,4 @@
-# Amazon Web Service (AWS) :sushi::bread::watermelon::kiwi_fruit::lollipop:
+# Amazon Web Service (AWS) :sushi::bread::watermelon::kiwi_fruit::lollipop::peach:
 ## What is AWS
   * AWS is secure cloud services platform providing:
           - Computer power
